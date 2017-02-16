@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:opf="http://www.idpf.org/2007/opf"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	unique-identifier="BookId" version="2.0">
+	<metadata>
+		<dc:title>Mother of Learning</dc:title>
+		<dc:language>en</dc:language>
+		<dc:identifier id="BookId" opf:scheme="UUID">58a57e7b0f1d3</dc:identifier>
+		<dc:date opf:event="publication">2017-02-16T10:27:56.000000+00:00</dc:date>
+		<dc:description>Zorian, a mage in training, only wanted to finish his education in peace. Now he struggles to find answers as he finds himself repeatedly reliving the same month. 'Groundhog's day' style setup in a fantasy world.
+
+Rated: Fiction  T - English - Adventure/Mystery - Chapters: 65   - Words: 491,177 - Reviews: 3,041 - Favs: 2,457 - Follows: 3,148 - Updated: 2/12 - Published: 10/17/2011 - id: 2961893 </dc:description>
+		<dc:creator opf:file-as="nobody103" opf:role="aut">nobody103</dc:creator>
+		<dc:source>http://:/</dc:source>
+		<meta name="generator" content="EPub (Version 4.0.6) by A. Grandt, http://www.phpclasses.org/package/6115 or https://github.com/Grandt/PHPePub/" />
+	</metadata>
+
+	<manifest>
+		<item id="ncx" href="book.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" />
+		<item id="chapter2" href="Good-Morning-Brother.html" media-type="application/xhtml+xml" />
+		<item id="chapter3" href="Lifes-Little-Problems.html" media-type="application/xhtml+xml" />
+		<item id="chapter4" href="The-Bitter-Truth.html" media-type="application/xhtml+xml" />
+		<item id="chapter5" href="Stars-Fell.html" media-type="application/xhtml+xml" />
+		<item id="chapter6" href="Start-Over.html" media-type="application/xhtml+xml" />
+		<item id="chapter7" href="Concentrate-And-Try-Again.html" media-type="application/xhtml+xml" />
+		<item id="chapter8" href="Of-Gaps-And-Pretending.html" media-type="application/xhtml+xml" />
+		<item id="chapter9" href="Perspective.html" media-type="application/xhtml+xml" />
+		<item id="chapter10" href="Cheaters.html" media-type="application/xhtml+xml" />
+		<item id="chapter11" href="Overlooked-Details.html" media-type="application/xhtml+xml" />
+		<item id="chapter12" href="Limiters.html" media-type="application/xhtml+xml" />
+		<item id="chapter13" href="Soul-Web.html" media-type="application/xhtml+xml" />
+		<item id="chapter14" href="Any-Second-Now.html" media-type="application/xhtml+xml" />
+		<item id="chapter15" href="The-Sister-Effect.html" media-type="application/xhtml+xml" />
+		<item id="chapter16" href="Busy-Friday.html" media-type="application/xhtml+xml" />
+		<item id="chapter17" href="We-Need-To-Talk.html" media-type="application/xhtml+xml" />
+		<item id="chapter18" href="Sympathy-for-the-Spider.html" media-type="application/xhtml+xml" />
+		<item id="chapter19" href="The-Pact-Is-Sealed.html" media-type="application/xhtml+xml" />
+		<item id="chapter20" href="Tangled-Webs.html" media-type="application/xhtml+xml" />
+		<item id="chapter21" href="A-Matter-of-Faith.html" media-type="application/xhtml+xml" />
+		<item id="chapter22" href="Wheel-of-Fortune.html" media-type="application/xhtml+xml" />
+		<item id="chapter23" href="Complications.html" media-type="application/xhtml+xml" />
+		<item id="chapter24" href="Lighting-the-Fuse.html" media-type="application/xhtml+xml" />
+		<item id="chapter25" href="Smoke-and-Mirrors.html" media-type="application/xhtml+xml" />
+		<item id="chapter26" href="The-Unexpected.html" media-type="application/xhtml+xml" />
+		<item id="chapter27" href="Soulkill.html" media-type="application/xhtml+xml" />
+		<item id="chapter28" href="Cast-Adrift.html" media-type="application/xhtml+xml" />
+		<item id="chapter29" href="Cauldron.html" media-type="application/xhtml+xml" />
+		<item id="chapter30" href="The-Hunter-and-the-Hunted.html" media-type="application/xhtml+xml" />
+		<item id="chapter31" href="A-Game-of-Shops.html" media-type="application/xhtml+xml" />
+		<item id="chapter32" href="Marked.html" media-type="application/xhtml+xml" />
+		<item id="chapter33" href="Alternatives.html" media-type="application/xhtml+xml" />
+		<item id="chapter34" href="Gateways.html" media-type="application/xhtml+xml" />
+		<item id="chapter35" href="Unreasonable-Things.html" media-type="application/xhtml+xml" />
+		<item id="chapter36" href="Mistakes-Have-Been-Made.html" media-type="application/xhtml+xml" />
+		<item id="chapter37" href="A-Battle-of-Minds.html" media-type="application/xhtml+xml" />
+		<item id="chapter38" href="Slow-Burn.html" media-type="application/xhtml+xml" />
+		<item id="chapter39" href="Return-to-Cyoria.html" media-type="application/xhtml+xml" />
+		<item id="chapter40" href="Suspicious-Coincidences.html" media-type="application/xhtml+xml" />
+		<item id="chapter41" href="Shifting-Tracks.html" media-type="application/xhtml+xml" />
+		<item id="chapter42" href="Myriad-Clashing-Motives.html" media-type="application/xhtml+xml" />
+		<item id="chapter43" href="Sum-of-Its-Parts.html" media-type="application/xhtml+xml" />
+		<item id="chapter44" href="Overwhelmed.html" media-type="application/xhtml+xml" />
+		<item id="chapter45" href="A-Show-of-Trust.html" media-type="application/xhtml+xml" />
+		<item id="chapter46" href="Fine-Structures.html" media-type="application/xhtml+xml" />
+		<item id="chapter47" href="The-Other-Side.html" media-type="application/xhtml+xml" />
+		<item id="chapter48" href="Politics.html" media-type="application/xhtml+xml" />
+		<item id="chapter49" href="Well-of-Souls.html" media-type="application/xhtml+xml" />
+		<item id="chapter50" href="Substitution.html" media-type="application/xhtml+xml" />
+		<item id="chapter51" href="Containment.html" media-type="application/xhtml+xml" />
+		<item id="chapter52" href="Out-of-Control.html" media-type="application/xhtml+xml" />
+		<item id="chapter53" href="Things-Fall-Apart.html" media-type="application/xhtml+xml" />
+		<item id="chapter54" href="Phantoms.html" media-type="application/xhtml+xml" />
+		<item id="chapter55" href="The-Gate-Is-Barred.html" media-type="application/xhtml+xml" />
+		<item id="chapter56" href="Threshold.html" media-type="application/xhtml+xml" />
+		<item id="chapter57" href="Obscure.html" media-type="application/xhtml+xml" />
+		<item id="chapter58" href="Unwanted.html" media-type="application/xhtml+xml" />
+		<item id="chapter59" href="Questions-and-Answers.html" media-type="application/xhtml+xml" />
+		<item id="chapter60" href="One-Step-Forward.html" media-type="application/xhtml+xml" />
+		<item id="chapter61" href="Into-the-Abyss.html" media-type="application/xhtml+xml" />
+		<item id="chapter62" href="Anthills.html" media-type="application/xhtml+xml" />
+		<item id="chapter63" href="Improperly-Used.html" media-type="application/xhtml+xml" />
+		<item id="chapter64" href="The-March-of-Days.html" media-type="application/xhtml+xml" />
+		<item id="chapter65" href="Distance.html" media-type="application/xhtml+xml" />
+		<item id="chapter66" href="Dangerous-Ground.html" media-type="application/xhtml+xml" />
+		<item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine toc="ncx">
+		<itemref idref="chapter1" />
+		<itemref idref="ref_toc" linear="no" />
+		<itemref idref="chapter2" />
+		<itemref idref="chapter3" />
+		<itemref idref="chapter4" />
+		<itemref idref="chapter5" />
+		<itemref idref="chapter6" />
+		<itemref idref="chapter7" />
+		<itemref idref="chapter8" />
+		<itemref idref="chapter9" />
+		<itemref idref="chapter10" />
+		<itemref idref="chapter11" />
+		<itemref idref="chapter12" />
+		<itemref idref="chapter13" />
+		<itemref idref="chapter14" />
+		<itemref idref="chapter15" />
+		<itemref idref="chapter16" />
+		<itemref idref="chapter17" />
+		<itemref idref="chapter18" />
+		<itemref idref="chapter19" />
+		<itemref idref="chapter20" />
+		<itemref idref="chapter21" />
+		<itemref idref="chapter22" />
+		<itemref idref="chapter23" />
+		<itemref idref="chapter24" />
+		<itemref idref="chapter25" />
+		<itemref idref="chapter26" />
+		<itemref idref="chapter27" />
+		<itemref idref="chapter28" />
+		<itemref idref="chapter29" />
+		<itemref idref="chapter30" />
+		<itemref idref="chapter31" />
+		<itemref idref="chapter32" />
+		<itemref idref="chapter33" />
+		<itemref idref="chapter34" />
+		<itemref idref="chapter35" />
+		<itemref idref="chapter36" />
+		<itemref idref="chapter37" />
+		<itemref idref="chapter38" />
+		<itemref idref="chapter39" />
+		<itemref idref="chapter40" />
+		<itemref idref="chapter41" />
+		<itemref idref="chapter42" />
+		<itemref idref="chapter43" />
+		<itemref idref="chapter44" />
+		<itemref idref="chapter45" />
+		<itemref idref="chapter46" />
+		<itemref idref="chapter47" />
+		<itemref idref="chapter48" />
+		<itemref idref="chapter49" />
+		<itemref idref="chapter50" />
+		<itemref idref="chapter51" />
+		<itemref idref="chapter52" />
+		<itemref idref="chapter53" />
+		<itemref idref="chapter54" />
+		<itemref idref="chapter55" />
+		<itemref idref="chapter56" />
+		<itemref idref="chapter57" />
+		<itemref idref="chapter58" />
+		<itemref idref="chapter59" />
+		<itemref idref="chapter60" />
+		<itemref idref="chapter61" />
+		<itemref idref="chapter62" />
+		<itemref idref="chapter63" />
+		<itemref idref="chapter64" />
+		<itemref idref="chapter65" />
+		<itemref idref="chapter66" />
+	</spine>
+
+	<guide>
+		<reference type="toc" title="Table of Contents" href="TOC.xhtml" />
+		<reference type="text" title="Mother of Learning by nobody103" href="Cover.html" />
+	</guide>
+</package>
