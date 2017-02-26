@@ -2,7 +2,7 @@
 
 DIR=`dirname $0`
 mkdir $DIR/OEBPS_tmp
-for file in `ls $DIR/OEBPS/*.*ml`; do
+for file in `ls $DIR/OEBPS/*`; do
   cat $file | tr -d '\n' > `echo $file | sed 's|/OEBPS/|/OEBPS_tmp/|'`
 done
 mv $DIR/OEBPS $DIR/OEBPS_orig
