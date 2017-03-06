@@ -414,6 +414,12 @@
 			</navLabel>
 			<content src="Dangerous-Ground.html" />
 		</navPoint>
+		<navPoint id="chapter67" playOrder="67">
+			<navLabel>
+				<text>66. Marred Perfection</text>
+			</navLabel>
+			<content src="Marred-Perfection.html" />
+		</navPoint>
 				<navPoint id="ref-1" playOrder="67">
 					<navLabel>
 						<text>Table of Contents</text>
