@@ -420,6 +420,12 @@
 			</navLabel>
 			<content src="Marred-Perfection.html" />
 		</navPoint>
+		<navPoint id="chapter68" playOrder="68">
+			<navLabel>
+				<text>67. Convergence</text>
+			</navLabel>
+			<content src="Convergence.html" />
+		</navPoint>
 				<navPoint id="ref-1" playOrder="67">
 					<navLabel>
 						<text>Table of Contents</text>
