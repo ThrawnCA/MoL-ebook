@@ -11,7 +11,7 @@
 		<dc:date opf:event="publication">2017-02-16T10:27:56.000000+00:00</dc:date>
 		<dc:description>Zorian, a mage in training, only wanted to finish his education in peace. Now he struggles to find answers as he finds himself repeatedly reliving the same month. 'Groundhog's day' style setup in a fantasy world.
 
-Rated: Fiction  T - English - Adventure/Mystery - Chapters: 66   - Words: 498,965 - Reviews: 3,084 - Favs: 2,493 - Follows: 3,194 - Updated: 3/05 - Published: 10/17/2011 - id: 2961893 </dc:description>
+Rated: Fiction  T - English - Adventure/Mystery - Chapters: 67   - Words: 507,619 - Reviews: 3,191 - Favs: 2,574 - Follows: 3,289 - Updated: 3/28 - Published: 10/17/2011 - id: 2961893 </dc:description>
 		<dc:creator opf:file-as="nobody103" opf:role="aut">nobody103</dc:creator>
 		<dc:source>http://:/</dc:source>
 		<meta name="generator" content="EPub (Version 4.0.6) by A. Grandt, http://www.phpclasses.org/package/6115 or https://github.com/Grandt/PHPePub/" />
@@ -86,6 +86,7 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 66   - Words: 498,96
 		<item id="chapter65" href="Distance.html" media-type="application/xhtml+xml" />
 		<item id="chapter66" href="Dangerous-Ground.html" media-type="application/xhtml+xml" />
 		<item id="chapter67" href="Marred-Perfection.html" media-type="application/xhtml+xml" />
+		<item id="chapter68" href="Convergence.html" media-type="application/xhtml+xml" />
 		<item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
@@ -158,6 +159,7 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 66   - Words: 498,96
 		<itemref idref="chapter65" />
 		<itemref idref="chapter66" />
 		<itemref idref="chapter67" />
+		<itemref idref="chapter68" />
 	</spine>
 
 	<guide>
