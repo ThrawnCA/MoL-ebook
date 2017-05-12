@@ -430,13 +430,19 @@
 			<navLabel>
 				<text>68. Green Hell</text>
 			</navLabel>
-			<content src="68_Convergence.html" />
+			<content src="68_Green-Hell.html" />
 		</navPoint>
-				<navPoint id="ref-1" playOrder="70">
-					<navLabel>
-						<text>Table of Contents</text>
-					</navLabel>
-					<content src="TOC.xhtml" />
-				</navPoint>
+		<navPoint id="chapter70" playOrder="70">
+			<navLabel>
+				<text>69. Ruin</text>
+			</navLabel>
+			<content src="69_Ruin.html" />
+		</navPoint>
+		<navPoint id="ref-1" playOrder="71">
+			<navLabel>
+				<text>Table of Contents</text>
+			</navLabel>
+			<content src="TOC.xhtml" />
+		</navPoint>
 	</navMap>
 </ncx>
