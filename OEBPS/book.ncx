@@ -438,7 +438,13 @@
 			</navLabel>
 			<content src="69_Ruin.html" />
 		</navPoint>
-		<navPoint id="ref-1" playOrder="71">
+		<navPoint id="chapter71" playOrder="71">
+			<navLabel>
+				<text>70. Carried Away</text>
+			</navLabel>
+			<content src="70_Carried-Away.html" />
+		</navPoint>
+		<navPoint id="ref-1" playOrder="72">
 			<navLabel>
 				<text>Table of Contents</text>
 			</navLabel>
