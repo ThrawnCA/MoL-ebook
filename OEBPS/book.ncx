@@ -444,7 +444,13 @@
 			</navLabel>
 			<content src="70_Carried-Away.html" />
 		</navPoint>
-		<navPoint id="ref-1" playOrder="72">
+		<navPoint id="chapter72" playOrder="72">
+			<navLabel>
+				<text>71. Shadows of the Past</text>
+			</navLabel>
+			<content src="71_Shadows-of-the-Past.html" />
+		</navPoint>
+		<navPoint id="ref-1" playOrder="73">
 			<navLabel>
 				<text>Table of Contents</text>
 			</navLabel>
