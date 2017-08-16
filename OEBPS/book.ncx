@@ -450,7 +450,13 @@
 			</navLabel>
 			<content src="71_Shadows-of-the-Past.html" />
 		</navPoint>
-		<navPoint id="ref-1" playOrder="73">
+		<navPoint id="chapter73" playOrder="73">
+			<navLabel>
+				<text>72. Crossroads</text>
+			</navLabel>
+			<content src="72_Crossroads.html" />
+		</navPoint>
+		<navPoint id="ref-1" playOrder="74">
 			<navLabel>
 				<text>Table of Contents</text>
 			</navLabel>

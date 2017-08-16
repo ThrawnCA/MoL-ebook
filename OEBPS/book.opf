@@ -11,7 +11,7 @@
 		<dc:date opf:event="publication">2017-02-16T10:27:56.000000+00:00</dc:date>
 		<dc:description>Zorian, a mage in training, only wanted to finish his education in peace. Now he struggles to find answers as he finds himself repeatedly reliving the same month. 'Groundhog's day' style setup in a fantasy world.
 
-Rated: Fiction  T - English - Adventure/Mystery - Chapters: 71   - Words: 538,150 - Reviews: 3,356 - Favs: 2,740 - Follows: 3,516 - Updated: 7/3 - Published: 10/17/2011 - id: 2961893 </dc:description>
+Rated: Fiction  T - English - Adventure/Mystery - Chapters: 72 - Words: 545,663 - Reviews: 3,419 - Favs: 2,822 - Follows: 3,612 - Updated: 7/24 - Published: 10/17/2011 - id: 2961893 </dc:description>
 		<dc:creator opf:file-as="nobody103" opf:role="aut">nobody103</dc:creator>
 		<dc:source>http://:/</dc:source>
 		<meta name="generator" content="EPub (Version 4.0.6) by A. Grandt, http://www.phpclasses.org/package/6115 or https://github.com/Grandt/PHPePub/" />
@@ -91,6 +91,7 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 71   - Words: 538,15
 		<item id="chapter70" href="69_Ruin.html" media-type="application/xhtml+xml" />
 		<item id="chapter71" href="70_Carried-Away.html" media-type="application/xhtml+xml" />
 		<item id="chapter72" href="71_Shadows-of-the-Past.html" media-type="application/xhtml+xml" />
+		<item id="chapter73" href="72_Crossroads.html" media-type="application/xhtml+xml" />
 		<item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
@@ -168,6 +169,7 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 71   - Words: 538,15
 		<itemref idref="chapter70" />
 		<itemref idref="chapter71" />
 		<itemref idref="chapter72" />
+		<itemref idref="chapter73" />
 	</spine>
 
 	<guide>
