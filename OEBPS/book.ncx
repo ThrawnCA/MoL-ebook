@@ -456,7 +456,19 @@
 			</navLabel>
 			<content src="72_Crossroads.html" />
 		</navPoint>
-		<navPoint id="ref-1" playOrder="74">
+		<navPoint id="chapter74" playOrder="74">
+			<navLabel>
+				<text>73. Plodding Ahead</text>
+			</navLabel>
+			<content src="73_Plodding Ahead.html" />
+		</navPoint>
+		<navPoint id="chapter75" playOrder="75">
+			<navLabel>
+				<text>74. The Return</text>
+			</navLabel>
+			<content src="74_The-Return.html" />
+		</navPoint>
+		<navPoint id="ref-1" playOrder="76">
 			<navLabel>
 				<text>Table of Contents</text>
 			</navLabel>
