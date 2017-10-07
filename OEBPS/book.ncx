@@ -460,7 +460,7 @@
 			<navLabel>
 				<text>73. Plodding Ahead</text>
 			</navLabel>
-			<content src="73_Plodding Ahead.html" />
+			<content src="73_Plodding-Ahead.html" />
 		</navPoint>
 		<navPoint id="chapter75" playOrder="75">
 			<navLabel>
