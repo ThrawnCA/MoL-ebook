@@ -3,98 +3,98 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:opf="http://www.idpf.org/2007/opf"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	unique-identifier="BookId" version="2.0">
+	unique-identifier="BookId" version="3.0">
 	<metadata>
 		<dc:title>Mother of Learning</dc:title>
 		<dc:language>en</dc:language>
-		<dc:identifier id="BookId" opf:scheme="UUID">58a57e7b0f1d3</dc:identifier>
-		<dc:date opf:event="publication">2017-09-17T00:00:00.000000+00:00</dc:date>
+		<dc:identifier id="BookId">https://www.fictionpress.com/s/2961893/</dc:identifier>
+		<dc:date>2011-10-17T00:00:00.000000+00:00</dc:date>
 		<dc:description>Zorian, a mage in training, only wanted to finish his education in peace. Now he struggles to find answers as he finds himself repeatedly reliving the same month. 'Groundhog's day' style setup in a fantasy world.
 
 Rated: Fiction  T - English - Adventure/Mystery - Chapters: 74 - Words: 562,747 - Reviews: 3,566 - Favs: 3,011 - Follows: 3,866 - Updated: 9/17 - Published: 10/17/2011 - id: 2961893 </dc:description>
-		<dc:creator opf:file-as="nobody103" opf:role="aut">nobody103</dc:creator>
-		<dc:source>http://:/</dc:source>
-		<meta name="generator" content="EPub (Version 4.0.6) by A. Grandt, http://www.phpclasses.org/package/6115 or https://github.com/Grandt/PHPePub/" />
+		<dc:creator>nobody103</dc:creator>
+		<dc:source>https://www.fictionpress.com/s/2961893/</dc:source>
+		<meta property="dcterms:modified">2017-09-17T00:00:00Z</meta>
 	</metadata>
 
 	<manifest>
 		<item id="ncx" href="book.ncx" media-type="application/x-dtbncx+xml" />
-		<item id="chapter1" href="Cover.html" media-type="application/xhtml+xml" />
-		<item id="chapter2" href="1_Good-Morning-Brother.html" media-type="application/xhtml+xml" />
-		<item id="chapter3" href="2_Lifes-Little-Problems.html" media-type="application/xhtml+xml" />
-		<item id="chapter4" href="3_The-Bitter-Truth.html" media-type="application/xhtml+xml" />
-		<item id="chapter5" href="4_Stars-Fell.html" media-type="application/xhtml+xml" />
-		<item id="chapter6" href="5_Start-Over.html" media-type="application/xhtml+xml" />
-		<item id="chapter7" href="6_Concentrate-And-Try-Again.html" media-type="application/xhtml+xml" />
-		<item id="chapter8" href="7_Of-Gaps-And-Pretending.html" media-type="application/xhtml+xml" />
-		<item id="chapter9" href="8_Perspective.html" media-type="application/xhtml+xml" />
-		<item id="chapter10" href="9_Cheaters.html" media-type="application/xhtml+xml" />
-		<item id="chapter11" href="10_Overlooked-Details.html" media-type="application/xhtml+xml" />
-		<item id="chapter12" href="11_Limiters.html" media-type="application/xhtml+xml" />
-		<item id="chapter13" href="12_Soul-Web.html" media-type="application/xhtml+xml" />
-		<item id="chapter14" href="13_Any-Second-Now.html" media-type="application/xhtml+xml" />
-		<item id="chapter15" href="14_The-Sister-Effect.html" media-type="application/xhtml+xml" />
-		<item id="chapter16" href="15_Busy-Friday.html" media-type="application/xhtml+xml" />
-		<item id="chapter17" href="16_We-Need-To-Talk.html" media-type="application/xhtml+xml" />
-		<item id="chapter18" href="17_Sympathy-for-the-Spider.html" media-type="application/xhtml+xml" />
-		<item id="chapter19" href="18_The-Pact-Is-Sealed.html" media-type="application/xhtml+xml" />
-		<item id="chapter20" href="19_Tangled-Webs.html" media-type="application/xhtml+xml" />
-		<item id="chapter21" href="20_A-Matter-of-Faith.html" media-type="application/xhtml+xml" />
-		<item id="chapter22" href="21_Wheel-of-Fortune.html" media-type="application/xhtml+xml" />
-		<item id="chapter23" href="22_Complications.html" media-type="application/xhtml+xml" />
-		<item id="chapter24" href="23_Lighting-the-Fuse.html" media-type="application/xhtml+xml" />
-		<item id="chapter25" href="24_Smoke-and-Mirrors.html" media-type="application/xhtml+xml" />
-		<item id="chapter26" href="25_The-Unexpected.html" media-type="application/xhtml+xml" />
-		<item id="chapter27" href="26_Soulkill.html" media-type="application/xhtml+xml" />
-		<item id="chapter28" href="27_Cast-Adrift.html" media-type="application/xhtml+xml" />
-		<item id="chapter29" href="28_Cauldron.html" media-type="application/xhtml+xml" />
-		<item id="chapter30" href="29_The-Hunter-and-the-Hunted.html" media-type="application/xhtml+xml" />
-		<item id="chapter31" href="30_A-Game-of-Shops.html" media-type="application/xhtml+xml" />
-		<item id="chapter32" href="31_Marked.html" media-type="application/xhtml+xml" />
-		<item id="chapter33" href="32_Alternatives.html" media-type="application/xhtml+xml" />
-		<item id="chapter34" href="33_Gateways.html" media-type="application/xhtml+xml" />
-		<item id="chapter35" href="34_Unreasonable-Things.html" media-type="application/xhtml+xml" />
-		<item id="chapter36" href="35_Mistakes-Have-Been-Made.html" media-type="application/xhtml+xml" />
-		<item id="chapter37" href="36_A-Battle-of-Minds.html" media-type="application/xhtml+xml" />
-		<item id="chapter38" href="37_Slow-Burn.html" media-type="application/xhtml+xml" />
-		<item id="chapter39" href="38_Return-to-Cyoria.html" media-type="application/xhtml+xml" />
-		<item id="chapter40" href="39_Suspicious-Coincidences.html" media-type="application/xhtml+xml" />
-		<item id="chapter41" href="40_Shifting-Tracks.html" media-type="application/xhtml+xml" />
-		<item id="chapter42" href="41_Myriad-Clashing-Motives.html" media-type="application/xhtml+xml" />
-		<item id="chapter43" href="42_Sum-of-Its-Parts.html" media-type="application/xhtml+xml" />
-		<item id="chapter44" href="43_Overwhelmed.html" media-type="application/xhtml+xml" />
-		<item id="chapter45" href="44_A-Show-of-Trust.html" media-type="application/xhtml+xml" />
-		<item id="chapter46" href="45_Fine-Structures.html" media-type="application/xhtml+xml" />
-		<item id="chapter47" href="46_The-Other-Side.html" media-type="application/xhtml+xml" />
-		<item id="chapter48" href="47_Politics.html" media-type="application/xhtml+xml" />
-		<item id="chapter49" href="48_Well-of-Souls.html" media-type="application/xhtml+xml" />
-		<item id="chapter50" href="49_Substitution.html" media-type="application/xhtml+xml" />
-		<item id="chapter51" href="50_Containment.html" media-type="application/xhtml+xml" />
-		<item id="chapter52" href="51_Out-of-Control.html" media-type="application/xhtml+xml" />
-		<item id="chapter53" href="52_Things-Fall-Apart.html" media-type="application/xhtml+xml" />
-		<item id="chapter54" href="53_Phantoms.html" media-type="application/xhtml+xml" />
-		<item id="chapter55" href="54_The-Gate-Is-Barred.html" media-type="application/xhtml+xml" />
-		<item id="chapter56" href="55_Threshold.html" media-type="application/xhtml+xml" />
-		<item id="chapter57" href="56_Obscure.html" media-type="application/xhtml+xml" />
-		<item id="chapter58" href="57_Unwanted.html" media-type="application/xhtml+xml" />
-		<item id="chapter59" href="58_Questions-and-Answers.html" media-type="application/xhtml+xml" />
-		<item id="chapter60" href="59_One-Step-Forward.html" media-type="application/xhtml+xml" />
-		<item id="chapter61" href="60_Into-the-Abyss.html" media-type="application/xhtml+xml" />
-		<item id="chapter62" href="61_Anthills.html" media-type="application/xhtml+xml" />
-		<item id="chapter63" href="62_Improperly-Used.html" media-type="application/xhtml+xml" />
-		<item id="chapter64" href="63_The-March-of-Days.html" media-type="application/xhtml+xml" />
-		<item id="chapter65" href="64_Distance.html" media-type="application/xhtml+xml" />
-		<item id="chapter66" href="65_Dangerous-Ground.html" media-type="application/xhtml+xml" />
-		<item id="chapter67" href="66_Marred-Perfection.html" media-type="application/xhtml+xml" />
-		<item id="chapter68" href="67_Convergence.html" media-type="application/xhtml+xml" />
-		<item id="chapter69" href="68_Green-Hell.html" media-type="application/xhtml+xml" />
-		<item id="chapter70" href="69_Ruin.html" media-type="application/xhtml+xml" />
-		<item id="chapter71" href="70_Carried-Away.html" media-type="application/xhtml+xml" />
-		<item id="chapter72" href="71_Shadows-of-the-Past.html" media-type="application/xhtml+xml" />
-		<item id="chapter73" href="72_Crossroads.html" media-type="application/xhtml+xml" />
-		<item id="chapter74" href="73_Plodding-Ahead.html" media-type="application/xhtml+xml" />
-		<item id="chapter75" href="74_The-Return.html" media-type="application/xhtml+xml" />
-		<item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter1" href="Cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter2" href="1_Good-Morning-Brother.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter3" href="2_Lifes-Little-Problems.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter4" href="3_The-Bitter-Truth.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter5" href="4_Stars-Fell.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter6" href="5_Start-Over.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter7" href="6_Concentrate-And-Try-Again.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter8" href="7_Of-Gaps-And-Pretending.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter9" href="8_Perspective.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter10" href="9_Cheaters.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter11" href="10_Overlooked-Details.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter12" href="11_Limiters.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter13" href="12_Soul-Web.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter14" href="13_Any-Second-Now.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter15" href="14_The-Sister-Effect.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter16" href="15_Busy-Friday.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter17" href="16_We-Need-To-Talk.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter18" href="17_Sympathy-for-the-Spider.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter19" href="18_The-Pact-Is-Sealed.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter20" href="19_Tangled-Webs.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter21" href="20_A-Matter-of-Faith.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter22" href="21_Wheel-of-Fortune.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter23" href="22_Complications.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter24" href="23_Lighting-the-Fuse.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter25" href="24_Smoke-and-Mirrors.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter26" href="25_The-Unexpected.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter27" href="26_Soulkill.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter28" href="27_Cast-Adrift.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter29" href="28_Cauldron.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter30" href="29_The-Hunter-and-the-Hunted.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter31" href="30_A-Game-of-Shops.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter32" href="31_Marked.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter33" href="32_Alternatives.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter34" href="33_Gateways.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter35" href="34_Unreasonable-Things.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter36" href="35_Mistakes-Have-Been-Made.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter37" href="36_A-Battle-of-Minds.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter38" href="37_Slow-Burn.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter39" href="38_Return-to-Cyoria.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter40" href="39_Suspicious-Coincidences.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter41" href="40_Shifting-Tracks.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter42" href="41_Myriad-Clashing-Motives.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter43" href="42_Sum-of-Its-Parts.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter44" href="43_Overwhelmed.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter45" href="44_A-Show-of-Trust.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter46" href="45_Fine-Structures.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter47" href="46_The-Other-Side.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter48" href="47_Politics.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter49" href="48_Well-of-Souls.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter50" href="49_Substitution.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter51" href="50_Containment.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter52" href="51_Out-of-Control.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter53" href="52_Things-Fall-Apart.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter54" href="53_Phantoms.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter55" href="54_The-Gate-Is-Barred.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter56" href="55_Threshold.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter57" href="56_Obscure.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter58" href="57_Unwanted.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter59" href="58_Questions-and-Answers.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter60" href="59_One-Step-Forward.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter61" href="60_Into-the-Abyss.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter62" href="61_Anthills.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter63" href="62_Improperly-Used.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter64" href="63_The-March-of-Days.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter65" href="64_Distance.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter66" href="65_Dangerous-Ground.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter67" href="66_Marred-Perfection.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter68" href="67_Convergence.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter69" href="68_Green-Hell.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter70" href="69_Ruin.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter71" href="70_Carried-Away.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter72" href="71_Shadows-of-the-Past.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter73" href="72_Crossroads.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter74" href="73_Plodding-Ahead.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter75" href="74_The-Return.xhtml" media-type="application/xhtml+xml" />
+		<item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" properties="nav" />
 	</manifest>
 
 	<spine toc="ncx">
@@ -178,6 +178,6 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 74 - Words: 562,747 
 
 	<guide>
 		<reference type="toc" title="Table of Contents" href="TOC.xhtml" />
-		<reference type="text" title="Mother of Learning by nobody103" href="Cover.html" />
+		<reference type="text" title="Mother of Learning by nobody103" href="Cover.xhtml" />
 	</guide>
 </package>
