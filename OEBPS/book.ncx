@@ -16,461 +16,605 @@
 	</docAuthor>
 
 	<navMap>
-		<navPoint id="chapter1" playOrder="1">
+		<navPoint id="cover" playOrder="1">
 			<navLabel>
 				<text>Mother of Learning by nobody103</text>
 			</navLabel>
 			<content src="Cover.xhtml" />
 		</navPoint>
-		<navPoint id="chapter2" playOrder="2">
+		<navPoint id="ref-1" playOrder="5">
+			<navLabel>
+				<text>Table of Contents</text>
+			</navLabel>
+			<content src="TOC.xhtml" />
+		</navPoint>
+		<navPoint id="chapter1" playOrder="20">
 			<navLabel>
 				<text>1. Good Morning Brother</text>
 			</navLabel>
 			<content src="1_Good-Morning-Brother.xhtml" />
 		</navPoint>
-		<navPoint id="chapter3" playOrder="3">
+		<navPoint id="chapter2" playOrder="30">
 			<navLabel>
 				<text>2. Life's Little Problems</text>
 			</navLabel>
 			<content src="2_Lifes-Little-Problems.xhtml" />
 		</navPoint>
-		<navPoint id="chapter4" playOrder="4">
+		<navPoint id="chapter3" playOrder="40">
 			<navLabel>
 				<text>3. The Bitter Truth</text>
 			</navLabel>
 			<content src="3_The-Bitter-Truth.xhtml" />
 		</navPoint>
-		<navPoint id="chapter5" playOrder="5">
+		<navPoint id="chapter4" playOrder="50">
 			<navLabel>
 				<text>4. Stars Fell</text>
 			</navLabel>
 			<content src="4_Stars-Fell.xhtml" />
 		</navPoint>
-		<navPoint id="chapter6" playOrder="6">
+		<navPoint id="chapter5" playOrder="60">
 			<navLabel>
 				<text>5. Start Over</text>
 			</navLabel>
 			<content src="5_Start-Over.xhtml" />
 		</navPoint>
-		<navPoint id="chapter7" playOrder="7">
+		<navPoint id="chapter6" playOrder="70">
 			<navLabel>
 				<text>6. Concentrate And Try Again</text>
 			</navLabel>
 			<content src="6_Concentrate-And-Try-Again.xhtml" />
 		</navPoint>
-		<navPoint id="chapter8" playOrder="8">
+		<navPoint id="chapter7" playOrder="80">
 			<navLabel>
 				<text>7. Of Gaps And Pretending</text>
 			</navLabel>
 			<content src="7_Of-Gaps-And-Pretending.xhtml" />
 		</navPoint>
-		<navPoint id="chapter9" playOrder="9">
+		<navPoint id="chapter8" playOrder="90">
 			<navLabel>
 				<text>8. Perspective</text>
 			</navLabel>
 			<content src="8_Perspective.xhtml" />
 		</navPoint>
-		<navPoint id="chapter10" playOrder="10">
+		<navPoint id="chapter9" playOrder="100">
 			<navLabel>
 				<text>9. Cheaters</text>
 			</navLabel>
 			<content src="9_Cheaters.xhtml" />
 		</navPoint>
-		<navPoint id="chapter11" playOrder="11">
+		<navPoint id="chapter10" playOrder="110">
 			<navLabel>
 				<text>10. Overlooked Details</text>
 			</navLabel>
 			<content src="10_Overlooked-Details.xhtml" />
 		</navPoint>
-		<navPoint id="chapter12" playOrder="12">
+		<navPoint id="chapter11" playOrder="120">
 			<navLabel>
 				<text>11. Limiters</text>
 			</navLabel>
 			<content src="11_Limiters.xhtml" />
 		</navPoint>
-		<navPoint id="chapter13" playOrder="13">
+		<navPoint id="chapter12" playOrder="130">
 			<navLabel>
 				<text>12. Soul Web</text>
 			</navLabel>
 			<content src="12_Soul-Web.xhtml" />
 		</navPoint>
-		<navPoint id="chapter14" playOrder="14">
+		<navPoint id="chapter13" playOrder="140">
 			<navLabel>
 				<text>13. Any Second Now</text>
 			</navLabel>
 			<content src="13_Any-Second-Now.xhtml" />
 		</navPoint>
-		<navPoint id="chapter15" playOrder="15">
+		<navPoint id="chapter14" playOrder="150">
 			<navLabel>
 				<text>14. The Sister Effect</text>
 			</navLabel>
 			<content src="14_The-Sister-Effect.xhtml" />
 		</navPoint>
-		<navPoint id="chapter16" playOrder="16">
+		<navPoint id="chapter15" playOrder="160">
 			<navLabel>
 				<text>15. Busy Friday</text>
 			</navLabel>
 			<content src="15_Busy-Friday.xhtml" />
 		</navPoint>
-		<navPoint id="chapter17" playOrder="17">
+		<navPoint id="chapter16" playOrder="170">
 			<navLabel>
 				<text>16. We Need To Talk</text>
 			</navLabel>
 			<content src="16_We-Need-To-Talk.xhtml" />
 		</navPoint>
-		<navPoint id="chapter18" playOrder="18">
+		<navPoint id="chapter17" playOrder="180">
 			<navLabel>
 				<text>17. Sympathy for the Spider</text>
 			</navLabel>
 			<content src="17_Sympathy-for-the-Spider.xhtml" />
 		</navPoint>
-		<navPoint id="chapter19" playOrder="19">
+		<navPoint id="chapter18" playOrder="190">
 			<navLabel>
 				<text>18. The Pact Is Sealed</text>
 			</navLabel>
 			<content src="18_The-Pact-Is-Sealed.xhtml" />
 		</navPoint>
-		<navPoint id="chapter20" playOrder="20">
+		<navPoint id="chapter19" playOrder="200">
 			<navLabel>
 				<text>19. Tangled Webs</text>
 			</navLabel>
 			<content src="19_Tangled-Webs.xhtml" />
 		</navPoint>
-		<navPoint id="chapter21" playOrder="21">
+		<navPoint id="chapter20" playOrder="210">
 			<navLabel>
 				<text>20. A Matter of Faith</text>
 			</navLabel>
 			<content src="20_A-Matter-of-Faith.xhtml" />
 		</navPoint>
-		<navPoint id="chapter22" playOrder="22">
+		<navPoint id="chapter21" playOrder="220">
 			<navLabel>
 				<text>21. Wheel of Fortune</text>
 			</navLabel>
 			<content src="21_Wheel-of-Fortune.xhtml" />
 		</navPoint>
-		<navPoint id="chapter23" playOrder="23">
+		<navPoint id="chapter22" playOrder="230">
 			<navLabel>
 				<text>22. Complications</text>
 			</navLabel>
 			<content src="22_Complications.xhtml" />
 		</navPoint>
-		<navPoint id="chapter24" playOrder="24">
+		<navPoint id="chapter23" playOrder="240">
 			<navLabel>
 				<text>23. Lighting the Fuse</text>
 			</navLabel>
 			<content src="23_Lighting-the-Fuse.xhtml" />
 		</navPoint>
-		<navPoint id="chapter25" playOrder="25">
+		<navPoint id="chapter24" playOrder="250">
 			<navLabel>
 				<text>24. Smoke and Mirrors</text>
 			</navLabel>
 			<content src="24_Smoke-and-Mirrors.xhtml" />
 		</navPoint>
-		<navPoint id="chapter26" playOrder="26">
+		<navPoint id="chapter25" playOrder="260">
 			<navLabel>
 				<text>25. The Unexpected</text>
 			</navLabel>
 			<content src="25_The-Unexpected.xhtml" />
 		</navPoint>
-		<navPoint id="chapter27" playOrder="27">
+		<navPoint id="chapter26" playOrder="270">
 			<navLabel>
 				<text>26. Soulkill</text>
 			</navLabel>
 			<content src="26_Soulkill.xhtml" />
 		</navPoint>
-		<navPoint id="chapter28" playOrder="28">
+		<navPoint id="chapter27" playOrder="280">
 			<navLabel>
 				<text>27. Cast Adrift</text>
 			</navLabel>
 			<content src="27_Cast-Adrift.xhtml" />
 		</navPoint>
-		<navPoint id="chapter29" playOrder="29">
+		<navPoint id="chapter28" playOrder="290">
 			<navLabel>
 				<text>28. Cauldron</text>
 			</navLabel>
 			<content src="28_Cauldron.xhtml" />
 		</navPoint>
-		<navPoint id="chapter30" playOrder="30">
+		<navPoint id="chapter29" playOrder="300">
 			<navLabel>
 				<text>29. The Hunter and the Hunted</text>
 			</navLabel>
 			<content src="29_The-Hunter-and-the-Hunted.xhtml" />
 		</navPoint>
-		<navPoint id="chapter31" playOrder="31">
+		<navPoint id="chapter30" playOrder="310">
 			<navLabel>
 				<text>30. A Game of Shops</text>
 			</navLabel>
 			<content src="30_A-Game-of-Shops.xhtml" />
 		</navPoint>
-		<navPoint id="chapter32" playOrder="32">
+		<navPoint id="chapter31" playOrder="320">
 			<navLabel>
 				<text>31. Marked</text>
 			</navLabel>
 			<content src="31_Marked.xhtml" />
 		</navPoint>
-		<navPoint id="chapter33" playOrder="33">
+		<navPoint id="chapter32" playOrder="330">
 			<navLabel>
 				<text>32. Alternatives</text>
 			</navLabel>
 			<content src="32_Alternatives.xhtml" />
 		</navPoint>
-		<navPoint id="chapter34" playOrder="34">
+		<navPoint id="chapter33" playOrder="340">
 			<navLabel>
 				<text>33. Gateways</text>
 			</navLabel>
 			<content src="33_Gateways.xhtml" />
 		</navPoint>
-		<navPoint id="chapter35" playOrder="35">
+		<navPoint id="chapter34" playOrder="350">
 			<navLabel>
 				<text>34. Unreasonable Things</text>
 			</navLabel>
 			<content src="34_Unreasonable-Things.xhtml" />
 		</navPoint>
-		<navPoint id="chapter36" playOrder="36">
+		<navPoint id="chapter35" playOrder="360">
 			<navLabel>
 				<text>35. Mistakes Have Been Made</text>
 			</navLabel>
 			<content src="35_Mistakes-Have-Been-Made.xhtml" />
 		</navPoint>
-		<navPoint id="chapter37" playOrder="37">
+		<navPoint id="chapter36" playOrder="370">
 			<navLabel>
 				<text>36. A Battle of Minds</text>
 			</navLabel>
 			<content src="36_A-Battle-of-Minds.xhtml" />
 		</navPoint>
-		<navPoint id="chapter38" playOrder="38">
+		<navPoint id="chapter37" playOrder="380">
 			<navLabel>
 				<text>37. Slow Burn</text>
 			</navLabel>
 			<content src="37_Slow-Burn.xhtml" />
 		</navPoint>
-		<navPoint id="chapter39" playOrder="39">
+		<navPoint id="chapter38" playOrder="390">
 			<navLabel>
 				<text>38. Return to Cyoria</text>
 			</navLabel>
 			<content src="38_Return-to-Cyoria.xhtml" />
 		</navPoint>
-		<navPoint id="chapter40" playOrder="40">
+		<navPoint id="chapter39" playOrder="400">
 			<navLabel>
 				<text>39. Suspicious Coincidences</text>
 			</navLabel>
 			<content src="39_Suspicious-Coincidences.xhtml" />
 		</navPoint>
-		<navPoint id="chapter41" playOrder="41">
+		<navPoint id="chapter40" playOrder="410">
 			<navLabel>
 				<text>40. Shifting Tracks</text>
 			</navLabel>
 			<content src="40_Shifting-Tracks.xhtml" />
 		</navPoint>
-		<navPoint id="chapter42" playOrder="42">
+		<navPoint id="chapter41" playOrder="420">
 			<navLabel>
 				<text>41. Myriad Clashing Motives</text>
 			</navLabel>
 			<content src="41_Myriad-Clashing-Motives.xhtml" />
 		</navPoint>
-		<navPoint id="chapter43" playOrder="43">
+		<navPoint id="chapter42" playOrder="430">
 			<navLabel>
 				<text>42. Sum of Its Parts</text>
 			</navLabel>
 			<content src="42_Sum-of-Its-Parts.xhtml" />
 		</navPoint>
-		<navPoint id="chapter44" playOrder="44">
+		<navPoint id="chapter43" playOrder="440">
 			<navLabel>
 				<text>43. Overwhelmed</text>
 			</navLabel>
 			<content src="43_Overwhelmed.xhtml" />
 		</navPoint>
-		<navPoint id="chapter45" playOrder="45">
+		<navPoint id="chapter44" playOrder="450">
 			<navLabel>
 				<text>44. A Show of Trust</text>
 			</navLabel>
 			<content src="44_A-Show-of-Trust.xhtml" />
 		</navPoint>
-		<navPoint id="chapter46" playOrder="46">
+		<navPoint id="chapter45" playOrder="460">
 			<navLabel>
 				<text>45. Fine Structures</text>
 			</navLabel>
 			<content src="45_Fine-Structures.xhtml" />
 		</navPoint>
-		<navPoint id="chapter47" playOrder="47">
+		<navPoint id="chapter46" playOrder="470">
 			<navLabel>
 				<text>46. The Other Side</text>
 			</navLabel>
 			<content src="46_The-Other-Side.xhtml" />
 		</navPoint>
-		<navPoint id="chapter48" playOrder="48">
+		<navPoint id="chapter47" playOrder="480">
 			<navLabel>
 				<text>47. Politics</text>
 			</navLabel>
 			<content src="47_Politics.xhtml" />
 		</navPoint>
-		<navPoint id="chapter49" playOrder="49">
+		<navPoint id="chapter48" playOrder="490">
 			<navLabel>
 				<text>48. Well of Souls</text>
 			</navLabel>
 			<content src="48_Well-of-Souls.xhtml" />
 		</navPoint>
-		<navPoint id="chapter50" playOrder="50">
+		<navPoint id="chapter49" playOrder="500">
 			<navLabel>
 				<text>49. Substitution</text>
 			</navLabel>
 			<content src="49_Substitution.xhtml" />
 		</navPoint>
-		<navPoint id="chapter51" playOrder="51">
+		<navPoint id="chapter50" playOrder="510">
 			<navLabel>
 				<text>50. Containment</text>
 			</navLabel>
 			<content src="50_Containment.xhtml" />
 		</navPoint>
-		<navPoint id="chapter52" playOrder="52">
+		<navPoint id="chapter51" playOrder="520">
 			<navLabel>
 				<text>51. Out of Control</text>
 			</navLabel>
 			<content src="51_Out-of-Control.xhtml" />
 		</navPoint>
-		<navPoint id="chapter53" playOrder="53">
+		<navPoint id="chapter52" playOrder="530">
 			<navLabel>
 				<text>52. Things Fall Apart</text>
 			</navLabel>
 			<content src="52_Things-Fall-Apart.xhtml" />
 		</navPoint>
-		<navPoint id="chapter54" playOrder="54">
+		<navPoint id="chapter53" playOrder="540">
 			<navLabel>
 				<text>53. Phantoms</text>
 			</navLabel>
 			<content src="53_Phantoms.xhtml" />
 		</navPoint>
-		<navPoint id="chapter55" playOrder="55">
+		<navPoint id="chapter54" playOrder="550">
 			<navLabel>
 				<text>54. The Gate Is Barred</text>
 			</navLabel>
 			<content src="54_The-Gate-Is-Barred.xhtml" />
 		</navPoint>
-		<navPoint id="chapter56" playOrder="56">
+		<navPoint id="chapter55" playOrder="560">
 			<navLabel>
 				<text>55. Threshold</text>
 			</navLabel>
 			<content src="55_Threshold.xhtml" />
 		</navPoint>
-		<navPoint id="chapter57" playOrder="57">
+		<navPoint id="chapter56" playOrder="570">
 			<navLabel>
 				<text>56. Obscure</text>
 			</navLabel>
 			<content src="56_Obscure.xhtml" />
 		</navPoint>
-		<navPoint id="chapter58" playOrder="58">
+		<navPoint id="chapter57" playOrder="580">
 			<navLabel>
 				<text>57. Unwanted</text>
 			</navLabel>
 			<content src="57_Unwanted.xhtml" />
 		</navPoint>
-		<navPoint id="chapter59" playOrder="59">
+		<navPoint id="chapter58" playOrder="590">
 			<navLabel>
 				<text>58. Questions and Answers</text>
 			</navLabel>
 			<content src="58_Questions-and-Answers.xhtml" />
 		</navPoint>
-		<navPoint id="chapter60" playOrder="60">
+		<navPoint id="chapter59" playOrder="600">
 			<navLabel>
 				<text>59. One Step Forward</text>
 			</navLabel>
 			<content src="59_One-Step-Forward.xhtml" />
 		</navPoint>
-		<navPoint id="chapter61" playOrder="61">
+		<navPoint id="chapter60" playOrder="610">
 			<navLabel>
 				<text>60. Into the Abyss</text>
 			</navLabel>
 			<content src="60_Into-the-Abyss.xhtml" />
 		</navPoint>
-		<navPoint id="chapter62" playOrder="62">
+		<navPoint id="chapter61" playOrder="620">
 			<navLabel>
 				<text>61. Anthills</text>
 			</navLabel>
 			<content src="61_Anthills.xhtml" />
 		</navPoint>
-		<navPoint id="chapter63" playOrder="63">
+		<navPoint id="chapter62" playOrder="630">
 			<navLabel>
 				<text>62. Improperly Used</text>
 			</navLabel>
 			<content src="62_Improperly-Used.xhtml" />
 		</navPoint>
-		<navPoint id="chapter64" playOrder="64">
+		<navPoint id="chapter63" playOrder="640">
 			<navLabel>
 				<text>63. The March of Days</text>
 			</navLabel>
 			<content src="63_The-March-of-Days.xhtml" />
 		</navPoint>
-		<navPoint id="chapter65" playOrder="65">
+		<navPoint id="chapter64" playOrder="650">
 			<navLabel>
 				<text>64. Distance</text>
 			</navLabel>
 			<content src="64_Distance.xhtml" />
 		</navPoint>
-		<navPoint id="chapter66" playOrder="66">
+		<navPoint id="chapter65" playOrder="660">
 			<navLabel>
 				<text>65. Dangerous Ground</text>
 			</navLabel>
 			<content src="65_Dangerous-Ground.xhtml" />
 		</navPoint>
-		<navPoint id="chapter67" playOrder="67">
+		<navPoint id="chapter66" playOrder="670">
 			<navLabel>
 				<text>66. Marred Perfection</text>
 			</navLabel>
 			<content src="66_Marred-Perfection.xhtml" />
 		</navPoint>
-		<navPoint id="chapter68" playOrder="68">
+		<navPoint id="chapter67" playOrder="680">
 			<navLabel>
 				<text>67. Convergence</text>
 			</navLabel>
 			<content src="67_Convergence.xhtml" />
 		</navPoint>
-		<navPoint id="chapter69" playOrder="69">
+		<navPoint id="chapter68" playOrder="690">
 			<navLabel>
 				<text>68. Green Hell</text>
 			</navLabel>
 			<content src="68_Green-Hell.xhtml" />
 		</navPoint>
-		<navPoint id="chapter70" playOrder="70">
+		<navPoint id="chapter69" playOrder="700">
 			<navLabel>
 				<text>69. Ruin</text>
 			</navLabel>
 			<content src="69_Ruin.xhtml" />
 		</navPoint>
-		<navPoint id="chapter71" playOrder="71">
+		<navPoint id="chapter70" playOrder="710">
 			<navLabel>
 				<text>70. Carried Away</text>
 			</navLabel>
 			<content src="70_Carried-Away.xhtml" />
 		</navPoint>
-		<navPoint id="chapter72" playOrder="72">
+		<navPoint id="chapter71" playOrder="720">
 			<navLabel>
 				<text>71. Shadows of the Past</text>
 			</navLabel>
 			<content src="71_Shadows-of-the-Past.xhtml" />
 		</navPoint>
-		<navPoint id="chapter73" playOrder="73">
+		<navPoint id="chapter72" playOrder="730">
 			<navLabel>
 				<text>72. Crossroads</text>
 			</navLabel>
 			<content src="72_Crossroads.xhtml" />
 		</navPoint>
-		<navPoint id="chapter74" playOrder="74">
+		<navPoint id="chapter73" playOrder="740">
 			<navLabel>
 				<text>73. Plodding Ahead</text>
 			</navLabel>
 			<content src="73_Plodding-Ahead.xhtml" />
 		</navPoint>
-		<navPoint id="chapter75" playOrder="75">
+		<navPoint id="chapter74" playOrder="750">
 			<navLabel>
 				<text>74. The Return</text>
 			</navLabel>
 			<content src="74_The-Return.xhtml" />
 		</navPoint>
-		<navPoint id="ref-1" playOrder="76">
+		<navPoint id="chapter75" playOrder="760">
 			<navLabel>
-				<text>Table of Contents</text>
+				<text>75. Soul Stealer</text>
 			</navLabel>
-			<content src="TOC.xhtml" />
+			<content src="75.xhtml" />
+		</navPoint>
+		<navPoint id="chapter76" playOrder="770">
+			<navLabel>
+				<text>76. Critical Blunder</text>
+			</navLabel>
+			<content src="76.xhtml" />
+		</navPoint>
+		<navPoint id="chapter77" playOrder="780">
+			<navLabel>
+				<text>77. Testing</text>
+			</navLabel>
+			<content src="77.xhtml" />
+		</navPoint>
+		<navPoint id="chapter78" playOrder="790">
+			<navLabel>
+				<text>78. Grinding Stone</text>
+			</navLabel>
+			<content src="78.xhtml" />
+		</navPoint>
+		<navPoint id="chapter79" playOrder="800">
+			<navLabel>
+				<text>79. Crime and Evading Punishment</text>
+			</navLabel>
+			<content src="75.xhtml" />
+		</navPoint>
+		<navPoint id="chapter80" playOrder="810">
+			<navLabel>
+				<text>80. Enemies</text>
+			</navLabel>
+			<content src="80.xhtml" />
+		</navPoint>
+		<navPoint id="chapter81" playOrder="820">
+			<navLabel>
+				<text>81. A Civil Conversation</text>
+			</navLabel>
+			<content src="81.xhtml" />
+		</navPoint>
+		<navPoint id="chapter82" playOrder="830">
+			<navLabel>
+				<text>82. Ancient Circles</text>
+			</navLabel>
+			<content src="82.xhtml" />
+		</navPoint>
+		<navPoint id="chapter83" playOrder="840">
+			<navLabel>
+				<text>83. Scorpion</text>
+			</navLabel>
+			<content src="83.xhtml" />
+		</navPoint>
+		<navPoint id="chapter84" playOrder="850">
+			<navLabel>
+				<text>84. Powerless</text>
+			</navLabel>
+			<content src="84.xhtml" />
+		</navPoint>
+		<navPoint id="chapter85" playOrder="860">
+			<navLabel>
+				<text>85. Critical Mass</text>
+			</navLabel>
+			<content src="85.xhtml" />
+		</navPoint>
+		<navPoint id="chapter86" playOrder="870">
+			<navLabel>
+				<text>86. A New World</text>
+			</navLabel>
+			<content src="86.xhtml" />
+		</navPoint>
+		<navPoint id="chapter87" playOrder="880">
+			<navLabel>
+				<text>87. Agents of the Crown</text>
+			</navLabel>
+			<content src="87.xhtml" />
+		</navPoint>
+		<navPoint id="chapter88" playOrder="890">
+			<navLabel>
+				<text>88. Mysterious Ways</text>
+			</navLabel>
+			<content src="88.xhtml" />
+		</navPoint>
+		<navPoint id="chapter89" playOrder="900">
+			<navLabel>
+				<text>89. Victory</text>
+			</navLabel>
+			<content src="89.xhtml" />
+		</navPoint>
+		<navPoint id="chapter90" playOrder="910">
+			<navLabel>
+				<text>90. Change of Plans</text>
+			</navLabel>
+			<content src="90.xhtml" />
+		</navPoint>
+		<navPoint id="chapter91" playOrder="920">
+			<navLabel>
+				<text>91. A Path Paid in Blood</text>
+			</navLabel>
+			<content src="91.xhtml" />
+		</navPoint>
+		<navPoint id="chapter92" playOrder="930">
+			<navLabel>
+				<text>92. The Scramble</text>
+			</navLabel>
+			<content src="92.xhtml" />
+		</navPoint>
+		<navPoint id="chapter93" playOrder="940">
+			<navLabel>
+				<text>93. Shelter in the Storm</text>
+			</navLabel>
+			<content src="93.xhtml" />
+		</navPoint>
+		<navPoint id="chapter94" playOrder="950">
+			<navLabel>
+				<text>94. Ghosts</text>
+			</navLabel>
+			<content src="94.xhtml" />
+		</navPoint>
+		<navPoint id="chapter95" playOrder="960">
+			<navLabel>
+				<text>95. Betrayer</text>
+			</navLabel>
+			<content src="95.xhtml" />
+		</navPoint>
+		<navPoint id="chapter96" playOrder="970">
+			<navLabel>
+				<text>96. Contract</text>
+			</navLabel>
+			<content src="96.xhtml" />
+		</navPoint>
+		<navPoint id="chapter97" playOrder="980">
+			<navLabel>
+				<text>97. Illusory</text>
+			</navLabel>
+			<content src="97.xhtml" />
+		</navPoint>
+		<navPoint id="chapter98" playOrder="990">
+			<navLabel>
+				<text>98. Beneath the Surface</text>
+			</navLabel>
+			<content src="98.xhtml" />
 		</navPoint>
 	</navMap>
 </ncx>
