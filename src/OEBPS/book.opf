@@ -13,10 +13,10 @@
 Now he struggles to find answers as he finds himself repeatedly reliving the same month.
 'Groundhog's day' style setup in a fantasy world.
 
-Rated: Fiction  T - English - Adventure/Mystery - Chapters: 98 - Words: 755,548 - Reviews: 5,282 - Favs: 4,206 - Follows: 5,368 - Updated: 4/17 - Published: 10/17/2011 - id: 2961893 </dc:description>
+Rated: Fiction  T - English - Adventure/Mystery - Chapters: 101 - Words: 776,972 - Reviews: 5,521 - Favs: 4,307 - Follows: 5,500 - Updated: 7/30 - Published: 10/17/2011 - id: 2961893</dc:description>
 		<dc:creator>nobody103</dc:creator>
 		<dc:source>https://www.fictionpress.com/s/2961893/</dc:source>
-		<meta property="dcterms:modified">2019-04-17T00:00:00Z</meta>
+		<meta property="dcterms:modified">2019-07-30T00:00:00Z</meta>
 	</metadata>
 
 	<manifest>
@@ -121,6 +121,9 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 98 - Words: 755,548 
 		<item id="chapter96" href="96.xhtml" media-type="application/xhtml+xml" />
 		<item id="chapter97" href="97.xhtml" media-type="application/xhtml+xml" />
 		<item id="chapter98" href="98.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter99" href="99.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter100" href="100.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter101" href="101.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
 	<spine toc="ncx">
@@ -224,6 +227,9 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 98 - Words: 755,548 
 		<itemref idref="chapter96" />
 		<itemref idref="chapter97" />
 		<itemref idref="chapter98" />
+		<itemref idref="chapter99" />
+		<itemref idref="chapter100" />
+		<itemref idref="chapter101" />
 	</spine>
 
 	<guide>
