@@ -616,5 +616,23 @@
 			</navLabel>
 			<content src="98.xhtml" />
 		</navPoint>
+		<navPoint id="chapter99" playOrder="1000">
+			<navLabel>
+				<text>99. Powderkeg</text>
+			</navLabel>
+			<content src="99.xhtml" />
+		</navPoint>
+		<navPoint id="chapter100" playOrder="1010">
+			<navLabel>
+				<text>100. Sacrifice</text>
+			</navLabel>
+			<content src="100.xhtml" />
+		</navPoint>
+		<navPoint id="chapter101" playOrder="1020">
+			<navLabel>
+				<text>101. The Switch</text>
+			</navLabel>
+			<content src="101.xhtml" />
+		</navPoint>
 	</navMap>
 </ncx>
