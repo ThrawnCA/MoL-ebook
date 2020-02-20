@@ -664,5 +664,11 @@
 			</navLabel>
 			<content src="106.xhtml" />
 		</navPoint>
+		<navPoint id="epilogue" playOrder="1080">
+			<navLabel>
+				<text>Epilogue</text>
+			</navLabel>
+			<content src="Epilogue.xhtml" />
+		</navPoint>
 	</navMap>
 </ncx>
