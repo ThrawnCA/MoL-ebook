@@ -13,7 +13,7 @@
 Now he struggles to find answers as he finds himself repeatedly reliving the same month.
 'Groundhog's day' style setup in a fantasy world.
 
-Rated: Fiction  T - English - Adventure/Mystery - Chapters: 101 - Words: 776,972 - Reviews: 5,521 - Favs: 4,307 - Follows: 5,500 - Updated: 7/30 - Published: 10/17/2011 - id: 2961893</dc:description>
+Rated: Fiction T - English - Adventure/Mystery - Chapters: 107 - Words: 823,560 - Reviews: 5,929 - Favs: 4,489 - Follows: 5,689 - Updated: 2/11 - Published: Oct 17, 2011 - id: 2961893</dc:description>
 		<dc:creator>nobody103</dc:creator>
 		<dc:source>https://www.fictionpress.com/s/2961893/</dc:source>
 		<meta property="dcterms:modified">2019-07-30T00:00:00Z</meta>
@@ -124,6 +124,12 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 101 - Words: 776,972
 		<item id="chapter99" href="99.xhtml" media-type="application/xhtml+xml" />
 		<item id="chapter100" href="100.xhtml" media-type="application/xhtml+xml" />
 		<item id="chapter101" href="101.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter102" href="102.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter103" href="103.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter104" href="104.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter105" href="105.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter106" href="106.xhtml" media-type="application/xhtml+xml" />
+		<item id="epilogue" href="Epilogue.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
 	<spine toc="ncx">
@@ -230,6 +236,12 @@ Rated: Fiction  T - English - Adventure/Mystery - Chapters: 101 - Words: 776,972
 		<itemref idref="chapter99" />
 		<itemref idref="chapter100" />
 		<itemref idref="chapter101" />
+		<itemref idref="chapter102" />
+		<itemref idref="chapter103" />
+		<itemref idref="chapter104" />
+		<itemref idref="chapter105" />
+		<itemref idref="chapter106" />
+		<itemref idref="epilogue" />
 	</spine>
 
 	<guide>

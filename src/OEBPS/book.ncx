@@ -634,5 +634,41 @@
 			</navLabel>
 			<content src="101.xhtml" />
 		</navPoint>
+		<navPoint id="chapter102" playOrder="1030">
+			<navLabel>
+				<text>102. Giants</text>
+			</navLabel>
+			<content src="102.xhtml" />
+		</navPoint>
+		<navPoint id="chapter103" playOrder="1040">
+			<navLabel>
+				<text>103. Window of Opportunity</text>
+			</navLabel>
+			<content src="103.xhtml" />
+		</navPoint>
+		<navPoint id="chapter104" playOrder="1050">
+			<navLabel>
+				<text>104. I Win (I)</text>
+			</navLabel>
+			<content src="104.xhtml" />
+		</navPoint>
+		<navPoint id="chapter105" playOrder="1060">
+			<navLabel>
+				<text>105. I Win (II)</text>
+			</navLabel>
+			<content src="105.xhtml" />
+		</navPoint>
+		<navPoint id="chapter106" playOrder="1070">
+			<navLabel>
+				<text>106. I Win (III)</text>
+			</navLabel>
+			<content src="106.xhtml" />
+		</navPoint>
+		<navPoint id="epilogue" playOrder="1080">
+			<navLabel>
+				<text>Epilogue</text>
+			</navLabel>
+			<content src="Epilogue.xhtml" />
+		</navPoint>
 	</navMap>
 </ncx>
